@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">🎓 I am a **React Developer / React Native Developer / Senior Full Stack Engineer** focused on Frontend with over 7 years of experience in software engineering. I have got a **bachelor's degree** in **computer science**.</p>
+<p align="left">🎓 I am a ** Senior Full Stack Engineer** focused on Frontend with over 7 years of experience in software engineering. I have got a **bachelor's degree** in **computer science**.</p>
 
 ###
 
