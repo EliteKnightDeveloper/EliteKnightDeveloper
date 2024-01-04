@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hello 👋 This is Colten Lee.</h1>
+<h1 align="center">Hello 👋 This is Nguyễn Trung Hiếu.</h1>
 
 ###
 
