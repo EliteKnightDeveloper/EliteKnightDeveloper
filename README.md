@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">🎓 I am a ** Senior Full Stack Engineer** focused on React/Next.js, Node.js/Nest.js and Go with over 7 years of experience in software engineering. I have got a **bachelor's degree** in **computer science**.</p>
+<p align="left">🎓 I am a ** Senior Full Stack Engineer** focused on React/Next.js, Node.js/Nest.js and Go with over 9 years of experience in software engineering. I have got a **bachelor's degree** in **computer science**.</p>
 
 ###
 
